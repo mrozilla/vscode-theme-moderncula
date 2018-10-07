@@ -1,0 +1,25 @@
+{
+  "name": "vscode-theme-moderncula",
+  "displayName": "Moderncula Theme",
+  "description": "A modern version of the Darcula colour theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "mrozilla",
+  "license": "MIT",
+  "repository": "https://github.com/mrozilla/vscode-theme-moderncula",
+  "author": "Jan Hruby <jan@mrozilla.cz>",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moderncula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moderncula-color-theme.json"
+      }
+    ]
+  }
+}
