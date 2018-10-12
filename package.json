@@ -2,7 +2,7 @@
   "name": "vscode-theme-moderncula",
   "displayName": "Moderncula Theme",
   "description": "A modern version of the Darcula colour theme for VS Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "mrozilla",
   "license": "MIT",
   "repository": "https://github.com/mrozilla/vscode-theme-moderncula",
