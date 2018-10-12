@@ -68,6 +68,13 @@
       }
     },
     {
+      "name": "String constant",
+      "scope": "constant.character",
+      "settings": {
+        "foreground": "#9876aa"
+      }
+    },
+    {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
@@ -115,6 +122,20 @@
       "scope": "support.type.property-name",
       "settings": {
         "foreground": "#e06c75"
+      }
+    },
+    {
+      "name": "Regex Group/Set",
+      "scope": "punctuation.definition.group.regexp, punctuation.definition.character-class.regexp",
+      "settings": {
+        "foreground": "#ffc66d"
+      }
+    },
+    {
+      "name": "Regex Character Class",
+      "scope": "constant.other.character-class.regexp, constant.other.character-class.set.regexp",
+      "settings": {
+        "foreground": "#9876aa"
       }
     },
     {
