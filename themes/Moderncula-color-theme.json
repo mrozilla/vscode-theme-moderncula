@@ -111,6 +111,13 @@
       }
     },
     {
+      "name": "JSON key",
+      "scope": "support.type.property-name",
+      "settings": {
+        "foreground": "#e06c75"
+      }
+    },
+    {
       "name": "Resets",
       "scope": "meta.brace.round",
       "settings": {
