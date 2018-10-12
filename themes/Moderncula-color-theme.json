@@ -71,7 +71,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#7aaeb8"
       }
     },
     {
@@ -85,6 +85,28 @@
       "name": "JSX prop names",
       "scope": "entity.other.attribute-name",
       "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "CSS property name",
+      "scope": "support.type.property-name, support.type.vendored.property-name, entity.name.tag",
+      "settings": {
+        "foreground": "#9876aa"
+      }
+    },
+    {
+      "name": "CSS property value",
+      "scope": "support.constant.property-value, support.constant.color.w3c-standard-color-name",
+      "settings": {
+        "foreground": "#98c379"
+      }
+    },
+    {
+      "name": "CSS pseudo property",
+      "scope": "entity.name.tag.reference, entity.other.attribute-name.pseudo-class, entity.other.attribute-name.pseudo-element",
+      "settings": {
+        "foreground": "#ffc66d",
         "fontStyle": "italic"
       }
     },
