@@ -24,7 +24,7 @@
   },
   "tokenColors": [
     {
-      "name": "Keywords",
+      "name": "JS Keywords",
       "scope": "keyword, keyword.operator.new, keyword.operator.expression, storage, variable.language.this, constant.language",
       "settings": {
         "foreground": "#cc7832",
@@ -32,7 +32,7 @@
       }
     },
     {
-      "name": "Less important keywords",
+      "name": "JS Less important keywords",
       "scope": "keyword.operator, punctuation.section.embedded, punctuation.definition.template-expression",
       "settings": {
         "foreground": "#cc7832",
@@ -40,49 +40,49 @@
       }
     },
     {
-      "name": "Class",
+      "name": "JS Class",
       "scope": "entity.name.type, entity.other.inherited-class, support.class.component",
       "settings": {
         "foreground": "#ffc66d"
       }
     },
     {
-      "name": "Comment",
+      "name": "JS Comment",
       "scope": "comment",
       "settings": {
         "foreground": "#808080"
       }
     },
     {
-      "name": "Function",
+      "name": "JS Function",
       "scope": "entity.name.function, support.function",
       "settings": {
         "foreground": "#7a9ec2"
       }
     },
     {
-      "name": "String",
+      "name": "JS String",
       "scope": "string",
       "settings": {
         "foreground": "#98c379"
       }
     },
     {
-      "name": "String constant",
+      "name": "JS String constant",
       "scope": "constant.character",
       "settings": {
         "foreground": "#9876aa"
       }
     },
     {
-      "name": "Number",
+      "name": "JS Number",
       "scope": "constant.numeric",
       "settings": {
         "foreground": "#7aaeb8"
       }
     },
     {
-      "name": "Object property",
+      "name": "JS Object property",
       "scope": "variable.other.property, variable.other.object.property, meta.object-literal.key, support.variable.property",
       "settings": {
         "foreground": "#9876aa"
@@ -115,13 +115,6 @@
       "settings": {
         "foreground": "#ffc66d",
         "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "JSON key",
-      "scope": "support.type.property-name",
-      "settings": {
-        "foreground": "#e06c75"
       }
     },
     {
