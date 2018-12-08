@@ -41,7 +41,7 @@
     },
     {
       "name": "JS Class",
-      "scope": "entity.name.type, entity.other.inherited-class, support.class.component",
+      "scope": "entity.name.type, entity.other.inherited-class, support.class.component, support.constant.math, support.class.builtin",
       "settings": {
         "foreground": "#ffc66d"
       }
@@ -140,7 +140,7 @@
     },
     {
       "name": "Resets",
-      "scope": "meta.brace.round, meta.template.expression",
+      "scope": "meta.brace.round, meta.template.expression, variable.interpolation.scss",
       "settings": {
         "foreground": "#abb2bf",
         "fontStyle": ""
