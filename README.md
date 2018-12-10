@@ -4,6 +4,8 @@ A modern version of the Darcula colour theme (originally by the Jetbrains IDE) f
 
 This theme is optimised for Javascript & React development:
 
+![Screenshot](https://github.com/mrozilla/vscode-theme-moderncula/raw/master/screenshot.png)
+
 ## Inspiration
 
 Kudos to:
